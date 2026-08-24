@@ -45,7 +45,7 @@ fun_fact: I love turning complex architectural problems into clean, modular code
 - 🚀 **Open Source**: Contributor to **[OpenMRS](https://openmrs.org)** (Patient Management & Queue Entry workflows)
 - 💡 **Core Expertise**: Full Stack Web Development (React, Next.js, Node.js, Express, MongoDB, TypeScript) & System Programming (Python, C++)
 - 🎯 **Looking For**: Full-time Software Engineer & Developer positions to build impactful solutions
-- 📄 **Resume**: [Click here to view my Resume](https://imgur.com/7WBoTap)
+- 📄 **Resume**: [Click here to view my Resume]([https://imgur.com/7WBoTap](https://resume.usecerebro.co.in/))
 
 ---
 
