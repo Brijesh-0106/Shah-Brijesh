@@ -161,7 +161,7 @@ fun_fact: I love turning complex architectural problems into clean, modular code
   <p>I'm always excited to discuss software engineering, full-stack architecture, open-source ideas, or new career opportunities.</p>
   
 
-  <a href="https://imgur.com/7WBoTap">
+  <a href="https://resume.usecerebro.co.in/">
     <img src="https://img.shields.io/badge/View_Resume-10B981?style=for-the-badge&logo=googledocs&logoColor=white" alt="Resume" />
   </a>
 
